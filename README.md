@@ -24,7 +24,7 @@ Currently, this package provides the following cryptographic algorithms-
 - [Usage](#usage)
 - [PyNacl Cryptography](#pynacl)
 - [PyCryptodome](#pycrypto)
-- [HRSA (My Implementation of RSA that supports encryption/decryption of all characters with an ascii value greater than 31)](#rsa)
+- [HRSA (Implementation of RSA that supports encryption/decryption of all characters with an ascii value greater than 31)](#rsa)
 - [Hashing](#hashing)
 - [Caesar Cipher](#caesar)
 - [Vigenere Cipher](#vig)
