@@ -12,7 +12,7 @@ Currently, this package provides the following cryptographic algorithms-
 - Caesar Cipher (Complete implementation on my own)
 - Symmetric Key Cipher of PyNacl library (uses XSAlsa20 stream cipher)
 - Advanced Encryption Standard (CBC Mode) of PyCryptodom library
-- RSA (Rivest–Shamir–Adleman) -- Assymetric Key Cipher (Complete = - - - implementation on my own, and have made some changes )
+- RSA (Rivest–Shamir–Adleman) -- Assymetric Key Cipher (Complete implementation of RSA cryptosystem on my own, and I have made some changes along )
 - Password Hashing -- using key-stretching algos like argon2, argon2i and scrypt from PyNaCl library
 - Hashing using SHA 256 or SHA 512 as implemented in PyNaCl library
 - Prime Number Retrieval Algorithms - using the PyCryptodom library
