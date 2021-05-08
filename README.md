@@ -1,6 +1,6 @@
 # Enigma-Python package
 
-# Available as PyEnigmatic in Pypi
+## Available as PyEnigmatic in Pypi - https://pypi.org/project/PyEnigmatic/0.0.3/
 
 This python package provides access to several encryption and hashing functions. It essentially allows the user to obtain hashes, keys and encrypted, as well as decrypted, text by exposing existing cryptographic ciphers and hashing algorithms. In addition to that, the API has three methods, which when given a certain number of parameters, provides the user with prime numbers of any length of bits.
 
@@ -20,11 +20,12 @@ Currently, this package provides the following cryptographic algorithms-
 ## Table of Contents
 
 - [Inspiration](#inspire)
-- [Why FastAPI](#fastapi)
+- [Installation](#installation)
 - [Usage](#usage)
 - [PyNacl Cryptography](#pynacl)
 - [PyCryptodome](#pycrypto)
 - [HRSA (My Implementation of RSA that supports encryption/decryption of all characters with an ascii value greater than 31)](#rsa)
+- [Hashing](#hashing)
 - [Caesar Cipher](#caesar)
 - [Vigenere Cipher](#vig)
 - [Primes](#prime)
@@ -39,7 +40,52 @@ Currently, this package provides the following cryptographic algorithms-
 
 My first foray into the world of computer science was through the world of cryptography. To be more precise, the movie- The Imitation Game - initated my venture into this field. Ever since then, my interest gradually turned into a commitment to the subject of computer science. I have built this project to re-visit the world of cryptograhpy with a better skill-set and knowledge.
 
+
+### Installation
+
+<a name="installation">
+
+![setup](https://user-images.githubusercontent.com/63330003/117552037-fcd87c00-b06a-11eb-9576-d14c37f37370.PNG)
+
+
 ## USAGE
+
+### AES
+
+![aes](https://user-images.githubusercontent.com/63330003/117552046-095cd480-b06b-11eb-8bb7-6d85449d02b2.PNG)
+
+### Primes
+
+![all primes](https://user-images.githubusercontent.com/63330003/117552049-0e218880-b06b-11eb-9d95-731414f6d31d.PNG)
+
+
+### Hashing
+
+![hash1](https://user-images.githubusercontent.com/63330003/117552055-1679c380-b06b-11eb-96da-d1ea3447a6eb.PNG)
+
+![hash23](https://user-images.githubusercontent.com/63330003/117552057-1974b400-b06b-11eb-8bf0-77424ec7f10d.PNG)
+
+
+### RSA KEys
+
+![keys](https://user-images.githubusercontent.com/63330003/117552064-22fe1c00-b06b-11eb-9507-d40e93fe53c6.PNG)
+
+
+### PyNacl Encryption (Symmetric)
+
+![nacl](https://user-images.githubusercontent.com/63330003/117552077-36a98280-b06b-11eb-9e4a-84dc8a740210.PNG)
+
+
+### HRSA
+
+![rsa](https://user-images.githubusercontent.com/63330003/117552087-432ddb00-b06b-11eb-9165-518c40129f83.PNG)
+
+
+### Caesar and Vigenere
+
+![vs](https://user-images.githubusercontent.com/63330003/117552094-4cb74300-b06b-11eb-9c97-401a59f9f894.PNG)
+
+
 
 <a name='usage'>
 
