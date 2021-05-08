@@ -45,6 +45,8 @@ My first foray into the world of computer science was through the world of crypt
 
 <a name="installation">
 
+#### pip install PyEnigmatic
+
 ![setup](https://user-images.githubusercontent.com/63330003/117552037-fcd87c00-b06a-11eb-9576-d14c37f37370.PNG)
 
 
